@@ -40,7 +40,7 @@ article::after {
   color: #0068FF;
   font-size: 44px;
 } */
-hr {border-bottom: 3px solid #0068FF;}
+hr {border-bottom: 3px solid #800020;}
 
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
@@ -49,5 +49,5 @@ hr {border-bottom: 3px solid #0068FF;}
 .inline-list li {display: inline-block;}
 
 footer .inline-list li {padding-right: 70px;}
-footer a {border: none; color: #0068FF;}
+footer a {border: none; color: #800020;}
 footer {margin: 0 auto; position: absolute; bottom: 0px; padding: 70px 0; width: 600px;}
